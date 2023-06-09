@@ -8,7 +8,7 @@ Personally, I am quite fascinated by the use of of special kind of logic for mod
 But you may ask yourself - why using PTL in RCA ?
 Because it allows fairly complex queries to the underlying probabilistic model relevant for particular RCA scenarios to be generalized and expressed in mathematical (PTL) notation which can be implemented via graph algorithms in an elegant way.
 
-The probabilistic model for RCA generally is built by a Markov Chain and is represented by a labeled directed graph, Kripke structure, etc. So the bottom line is that fairly complex RCA analysis queries to the probabilistic model based on the chosen set of events can be performed with generic graph algorithms which are already implemented efficiently in open source libraries.
+The probabilistic model for RCA generally is built by a Markov Chain and is represented by a labeled directed graph, Kripke structure, Petri Net, etc. So the bottom line is that fairly complex RCA analysis queries to the probabilistic model based on the chosen set of events can be performed with generic graph algorithms which are already implemented efficiently in open source libraries.
 PTL is an extension of  Computation Tree Logic (CTL). CTL is a superset of linear temporal logic and it is related to first order logic. Also note that CTL  is a  standard method for design/model verification in the analysis and design of VLSI ICs as well as analysis of  the correctness of parallel program execution.
 
 A detailed and thorugh survey by Clarke et al on the most relevant logic systems for model verification can be found here:
