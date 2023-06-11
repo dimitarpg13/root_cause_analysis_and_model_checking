@@ -1,3 +1,0 @@
-[submodule "src/causalml"]
-	path = src/causalml
-	url = https://github.com/dimitarpg13/causalml.git
