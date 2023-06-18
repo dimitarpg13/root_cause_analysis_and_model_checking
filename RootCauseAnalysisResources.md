@@ -30,6 +30,18 @@
 
 * [Regression and Causal Inference: Which Variables Should Be Added to the Model?, Vivekanda Das](https://vivdas.medium.com/regression-and-causal-inference-which-variables-should-be-added-to-the-model-fd95a759f78)
 
+* [Causal Effects, Shawhin Talebi](https://towardsdatascience.com/causal-effects-f30f962ffff3)
+
+* [Causal Effects via Propensity Scores, Shawhin Talebi](https://towardsdatascience.com/propensity-score-5c29c480130c)
+
+* [Causal Effects via the Do-operator, Shawhin Talebi](https://towardsdatascience.com/causal-effects-via-the-do-operator-5415aefc834a)
+
+* [Causal Inference, Shawhin Talebi](https://towardsdatascience.com/causal-inference-962ae97cefda)
+
+* [Causal Discovery, Shawhin Talebi](https://towardsdatascience.com/causal-discovery-6858f9af6dcb)
+
+* [Understanding Causal Effects, Shawhin Talebi](https://shawhin.medium.com/understanding-causal-effects-37a054b2ec3b)
+
 * [Causal Effects via Regression, Shawhin Talebi](https://towardsdatascience.com/causal-effects-via-regression-28cb58a2fffc)
 
 * [Causal Inference: a Four-Stage Framework, Leo Ware](https://medium.com/@leoware/causal-inference-a-four-stage-framework-7fc2f8deafe2)
