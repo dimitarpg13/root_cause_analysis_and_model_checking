@@ -56,6 +56,8 @@
 
 * [A step-by-step guide in designing knowledge-driven models using Bayes theorem, Erdogan Taskesen](https://towardsdatascience.com/a-step-by-step-guide-in-designing-knowledge-driven-models-using-bayesian-theorem-7433f6fd64be)
 
+* [A step-by-step guide in detecting causal relationships using Bayesian Structure Learning in Python, Erdogan Taskesen](https://towardsdatascience.com/a-step-by-step-guide-in-detecting-causal-relationships-using-bayesian-structure-learning-in-python-c20c6b31cee5)
+
 * [Introduction to Probabilistic Graphical Models, Branislav Hollander](https://towardsdatascience.com/introduction-to-probabilistic-graphical-models-b8e0bf459812)
 
 ## Articles
