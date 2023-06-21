@@ -60,6 +60,8 @@
 
 * [Introduction to Probabilistic Graphical Models, Branislav Hollander](https://towardsdatascience.com/introduction-to-probabilistic-graphical-models-b8e0bf459812)
 
+* [Propensity Score Trimming Using Python Package `CausalInference`](https://medium.com/grabngoinfo/propensity-score-trimming-using-python-package-causal-inference-ab64dcfb6924)
+
 ## Articles
 
 * [Generating Conditional Probabilities for Bayesian Networks: Easing the Knowledge Acquisition Problem, Balaram Das](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Generating_Conditional_Probabilities_for_Bayesian_Networks-Easing_the_Knowledge_Acquisition_Problem_Das_2004.pdf)
