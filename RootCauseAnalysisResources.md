@@ -64,6 +64,8 @@
 
 * [Six Causal Inference Techniques Using Python with Thomas Caputo](https://medium.com/@tomcaputo/causal-inference-techniques-using-python-d062b9ab9c5a)
 
+* [Causal Python - Level Up Your Causal Discovery Skills in Python (2023) with Aleksander Molak](https://towardsdatascience.com/beyond-the-basics-level-up-your-causal-discovery-skills-in-python-now-2023-cabe0b938715)
+
 ## Articles
 
 * [Generating Conditional Probabilities for Bayesian Networks: Easing the Knowledge Acquisition Problem, Balaram Das](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Generating_Conditional_Probabilities_for_Bayesian_Networks-Easing_the_Knowledge_Acquisition_Problem_Das_2004.pdf)
