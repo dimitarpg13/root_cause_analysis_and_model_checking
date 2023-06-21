@@ -60,7 +60,9 @@
 
 * [Introduction to Probabilistic Graphical Models, Branislav Hollander](https://towardsdatascience.com/introduction-to-probabilistic-graphical-models-b8e0bf459812)
 
-* [Propensity Score Trimming Using Python Package `CausalInference`](https://medium.com/grabngoinfo/propensity-score-trimming-using-python-package-causal-inference-ab64dcfb6924)
+* [Propensity Score Trimming Using Python Package `CausalInference` with Amy@GrabNGoInfo](https://medium.com/grabngoinfo/propensity-score-trimming-using-python-package-causal-inference-ab64dcfb6924)
+
+* [Six Causal Inference Techniques Using Python with Thomas Caputo](https://medium.com/@tomcaputo/causal-inference-techniques-using-python-d062b9ab9c5a)
 
 ## Articles
 
