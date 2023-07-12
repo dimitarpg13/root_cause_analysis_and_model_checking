@@ -66,7 +66,21 @@
 
 * [Causal Python - Level Up Your Causal Discovery Skills in Python (2023) with Aleksander Molak](https://towardsdatascience.com/beyond-the-basics-level-up-your-causal-discovery-skills-in-python-now-2023-cabe0b938715)
 
-## Articles
+## Books, Articles and Tutorials
+
+* [Probabilistic Causality, Ellery Eells, University of Wisconsin-Madison, 1991](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/eells_probabilistic_causality_1991.pdf)
+
+* [Causality - Models, Reasoning and Inference, Judea Pearl, 2nd Edition, 2009](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Causality_Judea_Pearl_2ndEdition.pdf)
+
+* [Counterfactuals and Causal Inference, Stephen Morgan and Christopher Winship, 2nd Edition, 2015](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Counterfactuals_and_Causal_Inference_Models_and_Principles_for_Social_Research_Morgan_2015.pdf)
+
+* [Dynamic Bayesian Networks: Representation, Inference and Learning, K. Murphy, 2002, PhD Thesis](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/DynamicBayesianNetworks-RepresentationInferenceandLearning_Murphy_Berkeley_2002_PhD_thesis.pdf)
+
+* [The Book of Why: The New Science of Cause and Effect, J. Pearl, 2018](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/The_book_of_why_the_new_science_of_cause_and_effect_Pearl_2018.pdf)
+
+* [Causation, Prediction and Search, P. Spirtes, C. Glymour, R. Scheines, CMU, 2001](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/CausationPredictionAndSearchSpirtesPhDThesis.pdf)
+
+* [Causal Asymmetries, Daniel M. Hausman, 1998](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/hausman_causal_asymmetries_Hausman_Book_1998.pdf)
 
 * [Generating Conditional Probabilities for Bayesian Networks: Easing the Knowledge Acquisition Problem, Balaram Das](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Generating_Conditional_Probabilities_for_Bayesian_Networks-Easing_the_Knowledge_Acquisition_Problem_Das_2004.pdf)
 
