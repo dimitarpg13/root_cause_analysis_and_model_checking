@@ -66,6 +66,8 @@
 
 * [Causal Python - Level Up Your Causal Discovery Skills in Python (2023) with Aleksander Molak](https://towardsdatascience.com/beyond-the-basics-level-up-your-causal-discovery-skills-in-python-now-2023-cabe0b938715)
 
+* [Double Machine Learning for causal inference with Borja Velasco, 2021](https://towardsdatascience.com/double-machine-learning-for-causal-inference-78e0c6111f9d)
+
 ## Books, Articles and Tutorials
 
 * [Probabilistic Causality, Ellery Eells, University of Wisconsin-Madison, 1991](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/eells_probabilistic_causality_1991.pdf)
