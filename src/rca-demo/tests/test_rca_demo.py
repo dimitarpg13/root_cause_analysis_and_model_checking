@@ -11,4 +11,6 @@ def test_load_event_types():
     event_types = load_event_types(FULFILLMENT_EVENT_TYPES_SCHEMA)
 
     assert event_types is not None
-    assert isinstance(event_types, type(list[Fulfillm
+    assert isinstance(event_types, list) is True
+    assert len(event_types) > 0
+    assert isinstance(event_types[0], FulfillmentEventType) is True
