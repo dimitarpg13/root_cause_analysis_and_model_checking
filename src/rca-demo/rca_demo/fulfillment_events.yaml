@@ -95,19 +95,41 @@
         type: str
 
 - deprioritized_node:
-    name: Deprioritized_Node
+    name: Deprioritized_Node_On
     parameters:
       timestamp:
         type: datetime.datetime
+      node:
+        type: str
+
+- prioritized_node:
+    name: Deprioritized_Node_Off
+    parameters:
+      timestamp:
+        type: datetime.datetime
+      node:
+        type: str
 
 - turned_off_node:
     name: Turned_Off_Node
     parameters:
       timestamp:
         type: datetime.datetime
+      node:
+        type: str
 
 - soft_capacity_node:
     name: Turned_Off_Node
     parameters:
       timestamp:
         type: datetime.datetime
+
+- service_level_overridden:
+    name: Service_Level_For_Node_Overridden
+    parameters:
+      timestamp:
+        type: datetime.datetime
+      service_level:
+        type: str
+      node:
+        type: str
