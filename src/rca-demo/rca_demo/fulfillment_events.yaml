@@ -1,0 +1,113 @@
+- order_received:
+    name: Fulfillment_Order_Received
+    parameters:
+      timestamp:
+        type: datetime.datetime
+
+- bundle_received:
+    name: Fulfillment_Order_Bundle_Received
+    parameters:
+      order_timestamp:
+        type: datetime.datetime
+      bundle_index:
+        type: int
+
+- sku_received:
+    name: Fulfillment_Order_Bundle_Sku_Received
+    parameters:
+      order_timestamp:
+        type: datetime.datetime
+      bundle_index:
+        type: int
+      sku:
+        type: str
+
+- sufficient_inventory:
+    name: Sufficient_Inventory_For_Sku_At_Node
+    parameters:
+      order_timestamp:
+        type: datetime.datetime
+      bundle_index:
+        type: int
+      sku:
+        type: str
+      node:
+        type: str
+
+- insufficient_inventory:
+    name: Insufficient_Inventory_For_Sku_At_Node
+    parameters:
+      order_timestamp:
+        type: datetime.datetime
+      bundle_index:
+        type: int
+      sku:
+        type: str
+      node:
+        type: str
+
+- sufficient_capacity:
+    name: Sufficient_Capacity_At_Node
+    parameters:
+      order_timestamp:
+        type: datetime.datetime
+      bundle_index:
+        type: int
+      sku:
+        type: str
+      node:
+        type: str
+
+- insufficient_capacity:
+    name: Insufficient_Capacity_At_Node
+    parameters:
+      order_timestamp:
+        type: datetime.datetime
+      bundle_index:
+        type: int
+      sku:
+        type: str
+      node:
+        type: str
+
+- shipping_eligible:
+    name: Shipping_Eligible_Node_For_Sku
+    parameters:
+      order_timestamp:
+        type: datetime.datetime
+      bundle_index:
+        type: int
+      sku:
+        type: str
+      node:
+        type: str
+
+- shipping_ineligible:
+    name: Shipping_Ineligible_Node_For_Sku
+    parameters:
+      order_timestamp:
+        type: datetime.datetime
+      bundle_index:
+        type: int
+      sku:
+        type: str
+      node:
+        type: str
+
+- deprioritized_node:
+    name: Deprioritized_Node
+    parameters:
+      timestamp:
+        type: datetime.datetime
+
+- turned_off_node:
+    name: Turned_Off_Node
+    parameters:
+      timestamp:
+        type: datetime.datetime
+
+- soft_capacity_node:
+    name: Turned_Off_Node
+    parameters:
+      timestamp:
+        type: datetime.datetime
