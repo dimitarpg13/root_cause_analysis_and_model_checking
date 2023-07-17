@@ -1,52 +1,52 @@
-- order_received:
-    name: Fulfillment_Order_Received
-    parameters:
-      timestamp:
-        type: datetime.datetime
+order_received:
+  name: Fulfillment_Order_Received
+  parameters:
+    timestamp:
+      type: datetime.datetime
 
-- bundle_received:
-    name: Fulfillment_Order_Bundle_Received
-    parameters:
+bundle_received:
+  name: Fulfillment_Order_Bundle_Received
+  parameters:
       order_timestamp:
         type: datetime.datetime
       bundle_index:
         type: int
 
-- sku_received:
-    name: Fulfillment_Order_Bundle_Sku_Received
-    parameters:
-      order_timestamp:
-        type: datetime.datetime
-      bundle_index:
-        type: int
-      sku:
-        type: str
+sku_received:
+  name: Fulfillment_Order_Bundle_Sku_Received
+  parameters:
+    order_timestamp:
+      type: datetime.datetime
+    bundle_index:
+      type: int
+    sku:
+      type: str
 
-- sufficient_inventory:
-    name: Sufficient_Inventory_For_Sku_At_Node
-    parameters:
-      order_timestamp:
-        type: datetime.datetime
-      bundle_index:
-        type: int
-      sku:
-        type: str
-      node:
-        type: str
+sufficient_inventory:
+  name: Sufficient_Inventory_For_Sku_At_Node
+  parameters:
+    order_timestamp:
+      type: datetime.datetime
+    bundle_index:
+      type: int
+    sku:
+      type: str
+    node:
+      type: str
 
-- insufficient_inventory:
-    name: Insufficient_Inventory_For_Sku_At_Node
-    parameters:
-      order_timestamp:
-        type: datetime.datetime
-      bundle_index:
-        type: int
-      sku:
-        type: str
-      node:
-        type: str
+insufficient_inventory:
+  name: Insufficient_Inventory_For_Sku_At_Node
+  parameters:
+    order_timestamp:
+      type: datetime.datetime
+    bundle_index:
+      type: int
+    sku:
+      type: str
+    node:
+      type: str
 
-- sufficient_capacity:
+sufficient_capacity:
     name: Sufficient_Capacity_At_Node
     parameters:
       order_timestamp:
@@ -58,170 +58,170 @@
       node:
         type: str
 
-- insufficient_capacity:
-    name: Insufficient_Capacity_At_Node
-    parameters:
-      order_timestamp:
-        type: datetime.datetime
-      bundle_index:
-        type: int
-      sku:
-        type: str
-      node:
-        type: str
+insufficient_capacity:
+  name: Insufficient_Capacity_At_Node
+  parameters:
+    order_timestamp:
+      type: datetime.datetime
+    bundle_index:
+      type: int
+    sku:
+      type: str
+    node:
+      type: str
 
-- shipping_eligible:
-    name: Shipping_Eligible_Node_For_Sku
-    parameters:
-      order_timestamp:
-        type: datetime.datetime
-      bundle_index:
-        type: int
-      sku:
-        type: str
-      node:
-        type: str
+shipping_eligible:
+  name: Shipping_Eligible_Node_For_Sku
+  parameters:
+    order_timestamp:
+      type: datetime.datetime
+    bundle_index:
+      type: int
+    sku:
+      type: str
+    node:
+      type: str
 
-- shipping_ineligible:
-    name: Shipping_Ineligible_Node_For_Sku
-    parameters:
-      order_timestamp:
-        type: datetime.datetime
-      bundle_index:
-        type: int
-      sku:
-        type: str
-      node:
-        type: str
+shipping_ineligible:
+  name: Shipping_Ineligible_Node_For_Sku
+  parameters:
+    order_timestamp:
+      type: datetime.datetime
+    bundle_index:
+      type: int
+    sku:
+      type: str
+    node:
+      type: str
 
-- deprioritized_node:
-    name: Deprioritized_Node_On
-    parameters:
-      timestamp:
-        type: datetime.datetime
-      node:
-        type: str
+deprioritized_node:
+  name: Deprioritized_Node_On
+  parameters:
+    timestamp:
+      type: datetime.datetime
+    node:
+      type: str
 
-- prioritized_node:
-    name: Deprioritized_Node_Off
-    parameters:
-      timestamp:
-        type: datetime.datetime
-      node:
-        type: str
+prioritized_node:
+  name: Deprioritized_Node_Off
+  parameters:
+    timestamp:
+      type: datetime.datetime
+    node:
+      type: str
 
-- turned_off_node:
-    name: Turned_Off_Node
-    parameters:
-      timestamp:
-        type: datetime.datetime
-      node:
-        type: str
+turned_off_node:
+  name: Turned_Off_Node
+  parameters:
+    timestamp:
+      type: datetime.datetime
+    node:
+      type: str
 
-- soft_capacity_node:
-    name: Turned_Off_Node
-    parameters:
-      timestamp:
-        type: datetime.datetime
+soft_capacity_node:
+  name: Soft_Capacity_Node
+  parameters:
+    timestamp:
+      type: datetime.datetime
 
-- service_level_overridden:
-    name: Service_Level_Overridden_For_Node
-    parameters:
-      timestamp:
-        type: datetime.datetime
-      node:
-        type: str
-      carrier:
-        type: str
-      service_level:
-        type: str
+service_level_overridden:
+  name: Service_Level_Overridden_For_Node
+  parameters:
+    timestamp:
+      type: datetime.datetime
+    node:
+      type: str
+    carrier:
+      type: str
+    service_level:
+      type: str
 
-- service_level_override_expired:
-    name: Service_Level_Override_Expired_For_Node
-    parameters:
-      timestamp:
-        type: datetime.datetime
-      node:
-        type: str
-      carrier:
-        type: str
-      service_level:
-        type: str
+service_level_override_expired:
+  name: Service_Level_Override_Expired_For_Node
+  parameters:
+    timestamp:
+      type: datetime.datetime
+    node:
+      type: str
+    carrier:
+      type: str
+    service_level:
+      type: str
 
-- carrier_overridden:
-    name: Carrier_Overridden_For_Node
-    parameters:
-      timestamp:
-        type: datetime.datetime
-      node:
-        type: str
-      carrier:
-        type: str
+carrier_overridden:
+  name: Carrier_Overridden_For_Node
+  parameters:
+    timestamp:
+      type: datetime.datetime
+    node:
+      type: str
+    carrier:
+      type: str
 
-- carrier_override_expired:
-    name: Carrier_Override_Expired_For_Node
-    parameters:
-      timestamp:
-        type: datetime.datetime
-      node:
-        type: str
-      carrier:
-        type: str
+carrier_override_expired:
+  name: Carrier_Override_Expired_For_Node
+  parameters:
+    timestamp:
+      type: datetime.datetime
+    node:
+      type: str
+    carrier:
+      type: str
 
-- backlog_days_overridden:
-    name: Backlog_Days_Overridden_For_Node
-    parameters:
-      timestamp:
-        type: datetime.datetime
-      node:
-        type: str
-      sku:
-        type: str
-      new_value:
-        type: int
-      old_value:
-        type: int
+backlog_days_overridden:
+  name: Backlog_Days_Overridden_For_Node
+  parameters:
+    timestamp:
+      type: datetime.datetime
+    node:
+      type: str
+    sku:
+      type: str
+    new_value:
+      type: int
+    old_value:
+      type: int
 
-- backlog_days_override_expired:
-    name: Backlog_Days_Override_Expired_For_Node
-    parameters:
-      timestamp:
-        type: datetime.datetime
-      node:
-        type: str
-      sku:
-        type: str
-      new_value:
-        type: int
-      old_value:
-        type: int
+backlog_days_override_expired:
+  name: Backlog_Days_Override_Expired_For_Node
+  parameters:
+    timestamp:
+      type: datetime.datetime
+    node:
+      type: str
+    sku:
+      type: str
+    new_value:
+      type: int
+    old_value:
+      type: int
 
-- node_on_deplete_list:
-    name: Node_On_Deplete_List_For_Sku
-    parameters:
-      timestamp:
-        type: datetime.datetime
-      node:
-        type: str
-      sku:
-        type: str
+node_on_deplete_list:
+  name: Node_On_Deplete_List_For_Sku
+  parameters:
+    timestamp:
+      type: datetime.datetime
+    node:
+      type: str
+    sku:
+      type: str
 
-- node_with_orphan:
-    name: Node_With_Orphan_For_Sku
-    parameters:
-      timestamp:
-        type: datetime.datetime
-      node:
-        type: str
-      sku:
-        type: str
+node_with_orphan:
+  name: Node_With_Orphan_For_Sku
+  parameters:
+    timestamp:
+      type: datetime.datetime
+    node:
+      type: str
+    sku:
+      type: str
 
-- splitting_decision:
-    name: Splitting_Decision_For_Order_Bundle
-    parameters:
-      order_timestamp:
-        type: datetime.datetime
-      bundle_index:
-        type: int
-      skus:
-        type: list[str]
+splitting_decision:
+  name: Splitting_Decision_For_Order_Bundle
+  parameters:
+    order_timestamp:
+      type: datetime.datetime
+    bundle_index:
+      type: int
+    skus:
+      type: list[str]

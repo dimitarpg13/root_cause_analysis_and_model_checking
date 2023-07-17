@@ -8,7 +8,7 @@ def test_version():
 
 
 def test_load_event_types():
-    event_types = load_event_types(FULFILLMENT_EVENT_TYPES_SCHEMA)
+    event_types = load_event_types('rca_demo/'+FULFILLMENT_EVENT_TYPES_SCHEMA)
 
     assert event_types is not None
     assert isinstance(event_types, list) is True

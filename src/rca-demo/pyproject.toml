@@ -14,7 +14,7 @@ numpy = "^1.25.1"
 "ruamel.yaml" = "^0.17.32"
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.2"
+pytest = "^7.4"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
