@@ -125,7 +125,17 @@
         type: datetime.datetime
 
 - service_level_overridden:
-    name: Service_Level_For_Node_Overridden
+    name: Service_Level_Overridden_For_Node
+    parameters:
+      timestamp:
+        type: datetime.datetime
+      service_level:
+        type: str
+      node:
+        type: str
+
+- service_level_enabled:
+    name: Service_Level_Enabled_For_Node
     parameters:
       timestamp:
         type: datetime.datetime
