@@ -129,17 +129,99 @@
     parameters:
       timestamp:
         type: datetime.datetime
-      service_level:
-        type: str
       node:
         type: str
+      carrier:
+        type: str
+      service_level:
+        type: str
 
-- service_level_enabled:
-    name: Service_Level_Enabled_For_Node
+- service_level_override_expired:
+    name: Service_Level_Override_Expired_For_Node
     parameters:
       timestamp:
         type: datetime.datetime
-      service_level:
-        type: str
       node:
         type: str
+      carrier:
+        type: str
+      service_level:
+        type: str
+
+- carrier_overridden:
+    name: Carrier_Overridden_For_Node
+    parameters:
+      timestamp:
+        type: datetime.datetime
+      node:
+        type: str
+      carrier:
+        type: str
+
+- carrier_override_expired:
+    name: Carrier_Override_Expired_For_Node
+    parameters:
+      timestamp:
+        type: datetime.datetime
+      node:
+        type: str
+      carrier:
+        type: str
+
+- backlog_days_overridden:
+    name: Backlog_Days_Overridden_For_Node
+    parameters:
+      timestamp:
+        type: datetime.datetime
+      node:
+        type: str
+      sku:
+        type: str
+      new_value:
+        type: int
+      old_value:
+        type: int
+
+- backlog_days_override_expired:
+    name: Backlog_Days_Override_Expired_For_Node
+    parameters:
+      timestamp:
+        type: datetime.datetime
+      node:
+        type: str
+      sku:
+        type: str
+      new_value:
+        type: int
+      old_value:
+        type: int
+
+- node_on_deplete_list:
+    name: Node_On_Deplete_List_For_Sku
+    parameters:
+      timestamp:
+        type: datetime.datetime
+      node:
+        type: str
+      sku:
+        type: str
+
+- node_with_orphan:
+    name: Node_With_Orphan_For_Sku
+    parameters:
+      timestamp:
+        type: datetime.datetime
+      node:
+        type: str
+      sku:
+        type: str
+
+- splitting_decision:
+    name: Splitting_Decision_For_Order_Bundle
+    parameters:
+      order_timestamp:
+        type: datetime.datetime
+      bundle_index:
+        type: int
+      skus:
+        type: list[str]
