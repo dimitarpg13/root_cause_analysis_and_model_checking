@@ -1,8 +1,10 @@
 from datetime import datetime
 from dataclasses import dataclass
 
+
 class FulfillmentEventParameter:
     pass
+
 
 @dataclass
 class FulfillmentEventType:
