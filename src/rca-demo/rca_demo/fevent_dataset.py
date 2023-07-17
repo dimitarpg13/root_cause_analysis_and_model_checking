@@ -17,4 +17,5 @@ class FulfillmentEventDatasetGenerator:
 
 
 def load_event_types(file: str) -> list[FulfillmentEventType]:
+    
     pass
