@@ -10,7 +10,7 @@ class FulfillmentEventParameter:
 class FulfillmentEventType:
     """container for Fulfillment event type"""
     name: str
-    parameters: list[str]
+    parameters: list[FulfillmentEventParameter]
 
 
 @dataclass
