@@ -22,3 +22,22 @@ An excellent tutorial for Probablistic Temporal Logic (PTL) is the Hanssen and J
 
 A refresher on first order logic which is the fundament of the logic systems for model verification can be found here:
 [First-Order Logic, Open Logic Project](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ModelChecking/first-order-logic-OpenLogicProject.pdf)
+
+
+## Other Relevant Work
+ 
+ * [Reinforcement Learning](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
+
+ * [NLP Concepts](https://github.com/dimitarpg13/nlp_concepts/blob/main/NLPResources.md)
+ 
+ * [Transformers](https://github.com/dimitarpg13/transformers_intro/blob/main/TransformersResources.md)
+ 
+ * [Large Language Models](https://github.com/dimitarpg13/large_language_models/blob/main/LargeLanguageModelsResoruces.md)
+ 
+ * [Bayesian Networks](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/LearningBayesianNetworksResources.md)
+ 
+ * [Probabilistic Machine Learning](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/ProbabilisticMachineLearningResources.md)
+ 
+ * [Causal Inference, Root Cause Analysis and Model Checking](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/RootCauseAnalysisResources.md)
+ 
+ * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming)
