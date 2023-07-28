@@ -88,7 +88,11 @@
 
 * [Causation, David Lewis, 1974](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Lewis-Causation_1974.pdf)
 
+* [Counterfactuals, David Lewis, 1973](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Counterfactuals-lewis-1973.pdf)
+
 * [Redundant Causation, Michael McDermott, 1995](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/redundant_causation_mcdermott_1995.pdf)
+
+* [Causation as Influence, David Lewis, 2000](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Causation_as_Influence_lewis_2000.pdf)
 
 ## Videos
 
