@@ -94,6 +94,8 @@
 
 * [Causation as Influence, David Lewis, 2000](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Causation_as_Influence_lewis_2000.pdf)
 
+* [Probability and Causality, R. Otte, PhD Thesis, 1982](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Probability_and_Causality_PhD_Thesis_Otte_1982.pdf)
+
 ## Videos
 
 ### MLSS Cadiz 2016, Jonas Peters
