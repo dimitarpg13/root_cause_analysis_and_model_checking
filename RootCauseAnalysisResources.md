@@ -86,6 +86,8 @@
 
 * [Generating Conditional Probabilities for Bayesian Networks: Easing the Knowledge Acquisition Problem, Balaram Das](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Generating_Conditional_Probabilities_for_Bayesian_Networks-Easing_the_Knowledge_Acquisition_Problem_Das_2004.pdf)
 
+* [Redundant Causation, Michael McDermott, 1995](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/redundant_causation_mcdermott_1995.pdf)
+
 ## Videos
 
 ### MLSS Cadiz 2016, Jonas Peters
