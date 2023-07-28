@@ -96,6 +96,16 @@
 
 * [Probability and Causality, R. Otte, PhD Thesis, 1982](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Probability_and_Causality_PhD_Thesis_Otte_1982.pdf)
 
+* [Probabilistic Causality and Multiple Causation, Paul Humphreys, 1980](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ProbabilisticCausalityandMultipleCausation_Humphreys1980.pdf)
+
+* [Review of Granger-causality Fallacy, Marius Maziarz, 2014](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ReviewoftheGrangerCausalityFallacyMaziarz2014.pdf)
+
+* [Scoring Ancestral Graph Models, Thomas Richardson and Richard Spirtes, 1999](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ScoringAncestralGraphModels_RichardsonSpirtes1999.pdf)
+
+* [Causation, Prediction and Search, Peter Spirtes, Clark Glymour, Richard Scheines, PhD Thesis, 2000](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/CausationPredictionAndSearchSpirtesPhDThesis.pdf)
+
+* [Dynamic Bayesian Networks - Representation, Inference, and Learning, Kevin P. Murphy, PhD Thesis, 2002](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/DynamicBayesianNetworks-RepresentationInferenceandLearning_Murphy_Berkeley_2002_PhD_thesis.pdf)
+
 ## Videos
 
 ### MLSS Cadiz 2016, Jonas Peters
