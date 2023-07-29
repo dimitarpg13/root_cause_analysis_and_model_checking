@@ -70,6 +70,37 @@
 
 * [Causal Python - Elon Musk's Tweet, Our Googling Habits, and Bayesian Synthetic Control with Aleksander Molak](https://towardsdatascience.com/causal-python-elon-musks-tweet-our-googling-habits-bayesian-synthetic-control-187114fc4aa8)
 
+* [Causal Inference - Simpson's Paradox with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-i-415538211aa1)
+
+* [Causal Inference - Probability Theory with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-ii-probability-theory-8fc804fa8240)
+
+* [Causal Inference - Graphs with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-iii-graphs-df043300add1)
+
+* [Causal Inference - Structural Causal Models with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-iv-structural-causal-models-df10a83be580)
+
+* [Causal Inference - Chains and Forks with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-v-chains-and-forks-7b0b088c346e)
+
+* [Causal Inference - Colliders with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-vi-colliders-af07301c9a15)
+
+* [Causal Inference - d-separation with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-vii-d-separation-aa74e361d34e)
+
+* [Causal Inference - Model Testing and Causal Search with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-vii-model-testing-and-causal-search-536b796f0384)
+
+* [Causal Inference - Interventions with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-ix-interventions-c3f94190191d)
+
+* [Causal Inference - The Adjustment Formula with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-x-the-adjustment-formula-f9668469d76)
+
+* [Causal Inference - Back Door Criterion with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-xi-backdoor-criterion-e29627a1da0e)
+
+* [Causal Inference - Front Door Criterion with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-xii-front-door-criterion-38bec5172f3e)
+
+* [Causal Inference - Conditional Interventions and Covariate Specific Effects with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-xiii-conditional-interventions-and-covariate-specific-effects-1c0126b8b996)
+
+* [Causal Inference - Inverse Probability Weighing with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-xiv-inverse-probability-weighing-f81680321427)
+
+* [Causal Inference - Mediation with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-xv-mediation-26a20212adc9)
+
+
 ## Books, Articles and Tutorials
 
 * [Probabilistic Causality, Ellery Eells, University of Wisconsin-Madison, 1991](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/eells_probabilistic_causality_1991.pdf)
