@@ -68,6 +68,8 @@
 
 * [Double Machine Learning for causal inference with Borja Velasco, 2021](https://towardsdatascience.com/double-machine-learning-for-causal-inference-78e0c6111f9d)
 
+* [Causal Python - Elon Musk's Tweet, Our Googling Habits, and Bayesian Synthetic Control with Aleksander Molak](https://towardsdatascience.com/causal-python-elon-musks-tweet-our-googling-habits-bayesian-synthetic-control-187114fc4aa8)
+
 ## Books, Articles and Tutorials
 
 * [Probabilistic Causality, Ellery Eells, University of Wisconsin-Madison, 1991](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/eells_probabilistic_causality_1991.pdf)
