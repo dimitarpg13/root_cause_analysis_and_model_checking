@@ -153,6 +153,8 @@
 
 * [An Introduction to Causal Inference, Richard Scheines, Carnegie Mellon University, 1995](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/introtocausalinference_Scheines_1995.pdf)
 
+* [An Algorithmic Enquiry Concerning Causality, Samantha Kleinberg, PhD Thesis, 2010](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Algorithmic_Enquiry_Concerning_Causality_Kleinberg_PhD_Thesis_2010.pdf)
+
 ## Videos
 
 ### MLSS Cadiz 2016, Jonas Peters
