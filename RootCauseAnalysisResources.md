@@ -145,6 +145,8 @@
 
 * [Foundations of Probabilistic Theory of Causal Strength, J. Sprenger, 2017](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Foundations_of_Probabilistic_Theory_of_Causal_Strength_Sprenger_2017.pdf)
 
+* [The Structural Theory of Causation, Judea Pearl, 2009](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/TheStructuralTheoryOfCausationJudeaPearl_2009.pdf)
+
 ## Videos
 
 ### MLSS Cadiz 2016, Jonas Peters
