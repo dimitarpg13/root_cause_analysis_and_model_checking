@@ -149,6 +149,8 @@
 
 * [Causal Laws and Effective Strategies, Nancy Cartwright, Stanford U., 1979](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/causal_laws_and_effective_strategies_cartwright_1979.pdf)
 
+* [Causal Explanation, David Lewis, 1986](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/CausalExplanation_DavidLewis_1986.pdf)
+
 * [Introduction to Causal Inference, Peter Spirtes, Carnegie Mellon University, 2010](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Introduction_to_causal_inference_spirtes_2010.pdf)
 
 * [An Introduction to Causal Inference, Richard Scheines, Carnegie Mellon University, 1995](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/introtocausalinference_Scheines_1995.pdf)
