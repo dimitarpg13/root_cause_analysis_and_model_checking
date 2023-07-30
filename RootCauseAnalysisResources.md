@@ -147,6 +147,8 @@
 
 * [The Structural Theory of Causation, Judea Pearl, 2009](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/TheStructuralTheoryOfCausationJudeaPearl_2009.pdf)
 
+* [Causal Laws and Effective Strategies, Nancy Cartwright, Stanford U., 1979](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/causal_laws_and_effective_strategies_cartwright_1979.pdf)
+
 ## Videos
 
 ### MLSS Cadiz 2016, Jonas Peters
