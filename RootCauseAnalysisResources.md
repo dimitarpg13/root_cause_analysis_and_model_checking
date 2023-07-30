@@ -140,6 +140,7 @@
 * [Dynamic Bayesian Networks - Representation, Inference, and Learning, Kevin P. Murphy, PhD Thesis, 2002](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/DynamicBayesianNetworks-RepresentationInferenceandLearning_Murphy_Berkeley_2002_PhD_thesis.pdf)
 
 * [Probabilistic Measures of Causal Strength, Branden Fitelson, Christopher Hitchock, 2011](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Probabilistic_measures_of_causal_strength_Fitelson_Hitchcock_2011.pdf)
+    
     Companion notebook [here](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/probabilistic_measures_of_causal_strength_companion_notebook_Fitelson_2011.pdf)
 
 ## Videos
