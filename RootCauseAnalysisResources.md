@@ -38,6 +38,8 @@
 
 * [Causal Inference, Shawhin Talebi](https://towardsdatascience.com/causal-inference-962ae97cefda)
 
+* [Introduction to Causal Inference with Mert Atli](https://medium.com/@smertatli/introduction-to-casual-inference-622c20b37aa1)
+
 * [Causal Discovery, Shawhin Talebi](https://towardsdatascience.com/causal-discovery-6858f9af6dcb)
 
 * [Understanding Causal Effects, Shawhin Talebi](https://shawhin.medium.com/understanding-causal-effects-37a054b2ec3b)
