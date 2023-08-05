@@ -102,6 +102,12 @@
 
 * [Causal Inference - Mediation with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-xv-mediation-26a20212adc9)
 
+* [Introducing the Do-Sampler for Causal Inference with Adam Kelleher](https://medium.com/@akelleh/introducing-the-do-sampler-for-causal-inference-a3296ea9e78d)
+
+    Jupyter notebook [here](https://gist.github.com/akelleh/2a741a57f0a6f75262146ab17b2a6ef3)
+    Tutorial on Causal Inference and Counterfactual reasoning [here](https://causalinference.gitlab.io/kdd-tutorial/
+    Do-Sampler source code [here](https://github.com/py-why/dowhy)
+    Link to Judea Pearl's paper [here](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/TheDoCalculusRevistedJPearl2012.pdf)
 
 ## Books, Articles and Tutorials
 
@@ -158,6 +164,10 @@
 * [An Introduction to Causal Inference, Richard Scheines, Carnegie Mellon University, 1995](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/introtocausalinference_Scheines_1995.pdf)
 
 * [An Algorithmic Enquiry Concerning Causality, Samantha Kleinberg, PhD Thesis, 2010](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Algorithmic_Enquiry_Concerning_Causality_Kleinberg_PhD_Thesis_2010.pdf)
+
+## Judea Pearl's Causality Work
+
+* [Do-Calculus Revisited, Judea Pearl, Keynote Lecture, UAI-2012 Conference, Catalina, CA](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/TheDoCalculusRevistedJPearl2012.pdf)
 
 ## Videos
 
