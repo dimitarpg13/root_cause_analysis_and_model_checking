@@ -107,7 +107,17 @@
     Jupyter notebook [here](https://gist.github.com/akelleh/2a741a57f0a6f75262146ab17b2a6ef3)
     Tutorial on Causal Inference and Counterfactual reasoning [here](https://causalinference.gitlab.io/kdd-tutorial/
     Do-Sampler source code [here](https://github.com/py-why/dowhy)
-    Link to Judea Pearl's paper [here](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/TheDoCalculusRevistedJPearl2012.pdf)
+    Link to Judea Pearl's paper [here](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/TheDoCalculusRevistedJPearl2012.pdf)o
+
+* [Demystifying Causality: An Introduction to Causal Inference and Applications, Part 1, with IvanGor](https://ivan-gor.medium.com/demystifying-causality-an-introduction-to-causal-inference-and-applications-part-1-935714d6a7ec)
+
+* [Demystifying Causality: An Introduction to Causal Inference, Part 2, with Ivan Gor](https://ivan-gor.medium.com/demystifying-causality-an-introduction-to-causal-inference-and-applications-part-2-4808aeaeff98)
+
+* [Demistifying Causality: An Introduction to Causal Inference, Part 3, with Ivan Gor](https://ivan-gor.medium.com/demystifying-causality-an-introduction-to-causal-inference-and-applications-part-3-c053c151e951)
+ 
+    companion paper: [here](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/The_Paper_of_How-Estimating_Treatment_Effects_Using_the_Front_Door_Criterion_Bellemare_and_Bloem_2020.pdf)
+
+* [Demistifying Causality: An Introduction to Causal Inference, Part 4, with Ivan Gor](https://ivan-gor.medium.com/demystifying-causality-an-introduction-in-causal-inference-and-applications-part-4-3ad9d70d827c) 
 
 ## Books, Articles and Tutorials
 
@@ -164,6 +174,8 @@
 * [An Introduction to Causal Inference, Richard Scheines, Carnegie Mellon University, 1995](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/introtocausalinference_Scheines_1995.pdf)
 
 * [An Algorithmic Enquiry Concerning Causality, Samantha Kleinberg, PhD Thesis, 2010](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Algorithmic_Enquiry_Concerning_Causality_Kleinberg_PhD_Thesis_2010.pdf)
+
+* [The Paper of How: Estimating Treatment Effects Using Front-Door Criterion, M. Bellemare, J. Bloem, 2020](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/The_Paper_of_How-Estimating_Treatment_Effects_Using_the_Front_Door_Criterion_Bellemare_and_Bloem_2020.pdf)
 
 ## Judea Pearl's Causality Work
 
