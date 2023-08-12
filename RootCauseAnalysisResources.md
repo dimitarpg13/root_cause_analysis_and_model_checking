@@ -119,6 +119,10 @@
 
 * [Demistifying Causality: An Introduction to Causal Inference, Part 4, with Ivan Gor](https://ivan-gor.medium.com/demystifying-causality-an-introduction-in-causal-inference-and-applications-part-4-3ad9d70d827c) 
 
+* [The Need for Causal Inference with Robert Kuebler](https://towardsdatascience.com/the-need-for-causal-inference-4c7c612dde91)
+
+* [Causal Inference: Quasi-Experiments with Ian Ho](https://towardsdatascience.com/causal-inference-quasi-experiments-36d35ca5f754)
+
 ## Books, Articles and Tutorials
 
 * [Probabilistic Causality, Ellery Eells, University of Wisconsin-Madison, 1991](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/eells_probabilistic_causality_1991.pdf)
