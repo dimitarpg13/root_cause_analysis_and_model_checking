@@ -183,6 +183,12 @@
 
 * [The Paper of How: Estimating Treatment Effects Using Front-Door Criterion, M. Bellemare, J. Bloem, 2020](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/The_Paper_of_How-Estimating_Treatment_Effects_Using_the_Front_Door_Criterion_Bellemare_and_Bloem_2020.pdf)
 
+## Model Checking and Verification
+
+* [Automatic Verification Of Finite State Concurrent Systems Using Temporal Logic Specifications: A Practical Approach, Clarke, Emerson, Sistla](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ModelChecking/AutomaticVerifictionOfFiniteStateConcurrentSystemUsingTemporalLogicSpecification.pdf)
+
+* [A Logic for Reasoning about Time and Reliability, Hansson and Jonsson](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ModelChecking/ALogicforReasoningaboutTimeandReliability_Hansson_Johnson_1994.pdf)
+
 ## Judea Pearl's Causality Work
 
 * [Do-Calculus Revisited, Judea Pearl, Keynote Lecture, UAI-2012 Conference, Catalina, CA](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/TheDoCalculusRevistedJPearl2012.pdf)
