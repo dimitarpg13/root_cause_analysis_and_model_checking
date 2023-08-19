@@ -185,9 +185,17 @@
 
 ## Model Checking and Verification
 
-* [Automatic Verification Of Finite State Concurrent Systems Using Temporal Logic Specifications: A Practical Approach, Clarke, Emerson, Sistla](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ModelChecking/AutomaticVerifictionOfFiniteStateConcurrentSystemUsingTemporalLogicSpecification.pdf)
+* [Automatic Verification Of Finite State Concurrent Systems Using Temporal Logic Specifications: A Practical Approach, Clarke, Emerson, Sistla, 1984](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ModelChecking/AutomaticVerifictionOfFiniteStateConcurrentSystemUsingTemporalLogicSpecification.pdf)
 
-* [A Logic for Reasoning about Time and Reliability, Hansson and Jonsson](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ModelChecking/ALogicforReasoningaboutTimeandReliability_Hansson_Johnson_1994.pdf)
+* [The Complexity of Propositional Linear Temporal Logics, Sistla, Clarke, 1985](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ModelChecking/TheComplexityofPropositionalLinearTemporalLogics_Sistla_Clarke_1985.pdf)
+
+* [A Logic for Reasoning about Time and Reliability, Hansson and Jonsson, 1994](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ModelChecking/ALogicforReasoningaboutTimeandReliability_Hansson_Johnson_1994.pdf)
+
+* [The Temporal Logic of Causal Structures, Kleinberg and Mishra, 2009](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ModelChecking/TheTemporalLogicofCausalStructures_Kleinberg_Mishra_2009.pdf)
+
+* [An Algorithmic Enquiry Concerning Causality, Samantha Kleinberg, PhD thesis, 2010](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Algorithmic_Enquiry_Concerning_Causality_Kleinberg_PhD_Thesis_2010.pdf)
+
+* [A New Introduction to Modal Logic, Hughes and Cresswell, 1996](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ModelChecking/huges_cresswell_modal_logic.pdf)
 
 ## Judea Pearl's Causality Work
 
