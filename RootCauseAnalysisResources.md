@@ -123,6 +123,8 @@
 
 * [Causal Inference: Quasi-Experiments with Ian Ho](https://towardsdatascience.com/causal-inference-quasi-experiments-36d35ca5f754)
 
+* [Causal analysis with PyMC: Answering "What If?" with the new do operator with PyMC Labs](https://medium.com/@social_68653/causal-analysis-with-pymc-answering-what-if-with-the-new-do-operator-61c2f36858bb)
+
 ## Books, Articles and Tutorials
 
 * [Probabilistic Causality, Ellery Eells, University of Wisconsin-Madison, 1991](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/eells_probabilistic_causality_1991.pdf)
