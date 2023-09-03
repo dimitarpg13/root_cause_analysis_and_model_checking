@@ -2,7 +2,10 @@
 
 ## Medium
 * [The Dual Roots of Belief Propagation and Causal Inference with Oliver Beige](https://oliverbeige.medium.com/the-dual-roots-of-belief-propagation-and-causal-inference-17595d8180d6)
-    related papers: [Identification of Causal Effects Using Instrumental Variables, J.D. Angrist, G.W. Imbens, D.B. Rubin, 1993](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/identification_of_causal_effects_using_instrumental_variables_angrist_1993.pdf)
+
+    related papers: 
+
+    [Identification of Causal Effects Using Instrumental Variables, J.D. Angrist, G.W. Imbens, D.B. Rubin, 1993](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/identification_of_causal_effects_using_instrumental_variables_angrist_1993.pdf)
 
     [Machine Learning Methods for Estimating Heterogeneous Causal
 Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/MachineLearningMethodsforEstimatingHeterogeneousCausalEffects_Athey_Imbens_2015.pdf)
