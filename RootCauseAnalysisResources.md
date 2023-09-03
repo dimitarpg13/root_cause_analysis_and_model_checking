@@ -1,6 +1,11 @@
 # Root Cause Analysis Resources
 
 ## Medium
+* [The Dual Roots of Belief Propagation and Causal Inference with Oliver Beige](https://oliverbeige.medium.com/the-dual-roots-of-belief-propagation-and-causal-inference-17595d8180d6)
+    related papers: [Identification of Causal Effects Using Instrumental Variables, J.D. Angrist, G.W. Imbens, D.B. Rubin, 1993](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/identification_of_causal_effects_using_instrumental_variables_angrist_1993.pdf)
+
+    [Machine Learning Methods for Estimating Heterogeneous Causal
+Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/MachineLearningMethodsforEstimatingHeterogeneousCausalEffects_Athey_Imbens_2015.pdf)
 
 * [When Correlation is Better than Causation, Brittany Davis](https://towardsdatascience.com/when-correlation-is-better-than-causation-1cbfa2708fbb)
 
@@ -184,6 +189,12 @@
 * [An Algorithmic Enquiry Concerning Causality, Samantha Kleinberg, PhD Thesis, 2010](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Algorithmic_Enquiry_Concerning_Causality_Kleinberg_PhD_Thesis_2010.pdf)
 
 * [The Paper of How: Estimating Treatment Effects Using Front-Door Criterion, M. Bellemare, J. Bloem, 2020](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/The_Paper_of_How-Estimating_Treatment_Effects_Using_the_Front_Door_Criterion_Bellemare_and_Bloem_2020.pdf)
+
+* [Identification of Causal Effects Using Instrumental Variables, Angrist, Imbens, Rubin, 1993](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/identification_of_causal_effects_using_instrumental_variables_angrist_1993.pdf)
+
+* [Probabilistic Causality - A Rejoinder to Ellery Eells, Dupre, 1990](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Probabilistic_Causality-A_Rejoinder_to_Ellery_Eells_Dupre_1990.pdf)
+
+* [Causally Powerful Processes, Dupre, 2021](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Causally_powerful_processes_Dupre_2021.pdf)
 
 ## Model Checking and Verification
 
