@@ -165,6 +165,10 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 * [Probability and Causality, R. Otte, PhD Thesis, 1982](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Probability_and_Causality_PhD_Thesis_Otte_1982.pdf)
 
+* [Structural Equations with Latent variables: Computational Solutions for Modern Data Problems, E. van Kesteren, 1992, U.of Utrecht](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/StructuralEquationswithLatentVariables_VanKestern_PhD_thesis_2021.pdf)
+
+* [Elements of Causal Inference, J. Peters, D. Janzing, B. Schloekopf, 2017](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Elements_of_Causal_Inference_Peters_2017.pdf)
+
 * [Introduction to Causal Inference from Machine Learning Perspective, Brady Neal, 2020](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)
 
 * [Probabilistic Causality and Multiple Causation, Paul Humphreys, 1980](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ProbabilisticCausalityandMultipleCausation_Humphreys1980.pdf)
