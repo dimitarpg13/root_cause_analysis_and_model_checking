@@ -131,6 +131,10 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 * [Causal Inference: Quasi-Experiments with Ian Ho](https://towardsdatascience.com/causal-inference-quasi-experiments-36d35ca5f754)
 
+* [Supply and Demand: Simultaneous Equations, not Simultaneous Causation with Ben Ogorek](https://medium.com/@baogorek/supply-and-demand-simultaneous-equations-not-simultaneous-causation-5252cf44fb29)
+
+    related paper: [link](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/FoundationsofStructuralCausalModelswithCyclesandLatentVariables_2021_Bongers.pdf)
+
 * [Causal analysis with PyMC: Answering "What If?" with the new do operator with PyMC Labs](https://medium.com/@social_68653/causal-analysis-with-pymc-answering-what-if-with-the-new-do-operator-61c2f36858bb)
 
 ## Books, Articles and Tutorials
@@ -198,6 +202,8 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 * [Probabilistic Causality - A Rejoinder to Ellery Eells, Dupre, 1990](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Probabilistic_Causality-A_Rejoinder_to_Ellery_Eells_Dupre_1990.pdf)
 
 * [Causally Powerful Processes, Dupre, 2021](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Causally_powerful_processes_Dupre_2021.pdf)
+
+* [Foundations of Structural Causal Models with Cycles and Latent Variables, Stephan Bongers et al, 2021](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/FoundationsofStructuralCausalModelswithCyclesandLatentVariables_2021_Bongers.pdf)
 
 ## Model Checking and Verification
 
