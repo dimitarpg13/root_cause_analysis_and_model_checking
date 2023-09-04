@@ -205,6 +205,12 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 * [Foundations of Structural Causal Models with Cycles and Latent Variables, Stephan Bongers et al, 2021](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/FoundationsofStructuralCausalModelswithCyclesandLatentVariables_2021_Bongers.pdf)
 
+* [Discovering Cyclic Causal Structure, Thomas Richardson, Tech Report, 1996](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Discovering_Cycling_Causal_Structure_Richardson_CMU_1996.pdf)
+
+* [Identifying Independencies in Causal Graphs with Feedback, J. Pearl, R Dechter, 1996](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/IdentifyingIndependenciesInCausalGraphswithFeedback_Pearl_and_Dechter_1996.pdf)
+
+* [Single World Intervention Graphs (SWIFs): A Unification of the Counterfactual and Graphical Approaches to Causality, T. Richardson, J. Robins, 2013](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/SingleWorldInterventionGraphs-UnificationoftheCounterfactualandGraphicalApproachestoCausality_Richardson_TR_2013.pdf)
+
 ## Model Checking and Verification
 
 * [Automatic Verification Of Finite State Concurrent Systems Using Temporal Logic Specifications: A Practical Approach, Clarke, Emerson, Sistla, 1984](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ModelChecking/AutomaticVerifictionOfFiniteStateConcurrentSystemUsingTemporalLogicSpecification.pdf)
