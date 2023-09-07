@@ -242,6 +242,10 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 * [Causality And Explanation, Collection of 26 of Wesley C. Salmon's essays, 1987](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Causality_and_Explanation_Wesley_Salmon_1997.pdf)
 
 
+## Good's Causal Calculus Work
+
+* [A Causal Calculus, part I and II, A. J. Good, 1960](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/CausalCalculus_part_I_and_II_Good_1960.pdf)
+
 ## Videos
 
 ### MLSS Cadiz 2016, Jonas Peters
