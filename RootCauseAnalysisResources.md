@@ -236,6 +236,7 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 * [Do-Calculus Revisited, Judea Pearl, Keynote Lecture, UAI-2012 Conference, Catalina, CA](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/TheDoCalculusRevistedJPearl2012.pdf)
 
 ## Wesley C. Salmon's Causality Work
+* [Probabilistic Causality, Wesley C. Salmon, 1980](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Probabilistic_Causality_Salmon_1980.pdf)
 
 * [Scientific Explanation and the Causal Structure of the World, Wesley C. Salmon, Princeton, 1984](RootCauseAnalysisResources.md)
 
