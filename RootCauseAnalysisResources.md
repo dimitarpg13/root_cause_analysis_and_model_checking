@@ -235,6 +235,11 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 * [A New Introduction to Modal Logic, Hughes and Cresswell, 1996](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ModelChecking/huges_cresswell_modal_logic.pdf)
 
+## Structural Equations Modeling of Causality
+
+* [Conditional Independence in Directed Cyclic Graphical Models for Feedback, Peter Spirtes, 1994](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Conditional_independence_in_directed_cyclic_graphical_models_for_feedback_Spirtes_1994.pdf)
+
+
 ## Judea Pearl's Causality Work
 
 * [Do-Calculus Revisited, Judea Pearl, Keynote Lecture, UAI-2012 Conference, Catalina, CA](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/TheDoCalculusRevistedJPearl2012.pdf)
