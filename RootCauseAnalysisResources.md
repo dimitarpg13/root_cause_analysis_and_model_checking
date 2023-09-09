@@ -249,6 +249,8 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 * [Counterfactuals, David Lewis, 1973](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Counterfactuals-lewis-1973.pdf)
 
+* [Causation, David Lewis, 1974](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Lewis-Causation_1974.pdf)
+
 * [Causation as Influence, David Lewis, 2000](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Causation_as_Influence_lewis_2000.pdf)
 
 
