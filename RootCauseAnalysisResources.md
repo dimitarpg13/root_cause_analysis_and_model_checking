@@ -237,6 +237,8 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 ## Structural Equations Modeling of Causality
 
+* [Structural Equations Models, Bielby and Hauser, 1977](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Structural_Equations_Models_Bielby_and_Hauser_1977.pdf)
+
 * [Conditional Independence in Directed Cyclic Graphical Models for Feedback, Peter Spirtes, 1994](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Conditional_independence_in_directed_cyclic_graphical_models_for_feedback_Spirtes_1994.pdf)
 
 * [Identifying Independencies in Causal Graphs with Feedback, J. Pearl and R. Dechter, 1996](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/IdentifyingIndependenciesInCausalGraphswithFeedback_Pearl_and_Dechter_1996.pdf)
