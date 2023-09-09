@@ -247,6 +247,8 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 * [The Causal Foundations of Structural Equation Modeling, J Pearl, 2021](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/The_Causal_Foundations_of_Structural_Equation_Modeling_JPearl_2021.pdf)
 
+* [Fifty Years of Structural Equation Modeling: A History of Generalization, Unification, and Difffusion, 2022](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Fifty_years_of_Structural_Equation_Modelling_Bollen_2022.pdf)
+
 
 ## Judea Pearl's Causality Work
 
