@@ -141,6 +141,8 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 * [The Direction of Time, Hans Reichenbach, edited by Maria Rechenbach, U California Press, 1956](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/the-direction-of-time-hans-reichenbach-ucal-press-1971.pdf)
 
+* [The Cement of The Universe, J.L. Mackie, 1980](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/cement-of-the-universe-a-study-of-causation-JL-Mackie-1980.pdf)
+
 * [Probabilistic Causality, Ellery Eells, University of Wisconsin-Madison, 1991](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/eells_probabilistic_causality_1991.pdf)
 
 * [Causality - Models, Reasoning and Inference, Judea Pearl, 2nd Edition, 2009](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Causality_Judea_Pearl_2ndEdition.pdf)
