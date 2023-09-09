@@ -139,6 +139,8 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 ## Books, Articles and Tutorials
 
+* [Philosophical Essays Concerning Human Understanding, David Hume, 1748](https://en.wikisource.org/wiki/Philosophical_Essays_Concerning_Human_Understanding)
+
 * [The Direction of Time, Hans Reichenbach, edited by Maria Rechenbach, U California Press, 1956](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/the-direction-of-time-hans-reichenbach-ucal-press-1971.pdf)
 
 * [The Cement of The Universe, J.L. Mackie, 1980](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/cement-of-the-universe-a-study-of-causation-JL-Mackie-1980.pdf)
