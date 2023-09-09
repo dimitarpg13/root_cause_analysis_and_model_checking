@@ -277,6 +277,10 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 * [A Causal Calculus, part I and II, A. J. Good, 1960](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/CausalCalculus_part_I_and_II_Good_1960.pdf)
 
+## Causation and Prediction Challenge (collection of articles)
+Collection of papers and discussion on variety of modeling techniques, focusing on predicting the effect of "interventions" performed by an external agent
+JMLR Workshop and COnference Proceedings 3:1-33 WCCI 2008 workshop on causality: [collection of articles](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/CiML-v2-book.pdf)
+
 ## Videos
 
 ### MLSS Cadiz 2016, Jonas Peters
