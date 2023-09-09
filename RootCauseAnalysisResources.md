@@ -245,6 +245,8 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 * [Foundations of Structural Causal Models with Cycles and Latent Variables, S. Bongers et al, 2021](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/FoundationsofStructuralCausalModelswithCyclesandLatentVariables_2021_Bongers.pdf)
 
+* [The Causal Foundations of Structural Equation Modeling, J Pearl, 2021](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/The_Causal_Foundations_of_Structural_Equation_Modeling_JPearl_2021.pdf)
+
 
 ## Judea Pearl's Causality Work
 
