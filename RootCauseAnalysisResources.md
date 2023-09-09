@@ -238,11 +238,18 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 * [Do-Calculus Revisited, Judea Pearl, Keynote Lecture, UAI-2012 Conference, Catalina, CA](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/TheDoCalculusRevistedJPearl2012.pdf)
 
 ## Wesley C. Salmon's Causality Work
+
 * [Probabilistic Causality, Wesley C. Salmon, 1980](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Probabilistic_Causality_Salmon_1980.pdf)
 
-* [Scientific Explanation and the Causal Structure of the World, Wesley C. Salmon, Princeton, 1984](RootCauseAnalysisResources.md)
+* [Scientific Explanation and the Causal Structure of the World, Wesley C. Salmon, Princeton, 1984](https://archive.org/details/scientificexplan0000salm/)
 
 * [Causality And Explanation, Collection of 26 of Wesley C. Salmon's essays, 1987](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Causality_and_Explanation_Wesley_Salmon_1997.pdf)
+
+## David Lewis work on Counterfactuals
+
+* [Counterfactuals, David Lewis, 1973](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Counterfactuals-lewis-1973.pdf)
+
+* [Causation as Influence, David Lewis, 2000](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Causation_as_Influence_lewis_2000.pdf)
 
 
 ## Good's Causal Calculus Work
