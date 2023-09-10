@@ -235,7 +235,7 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 * [A New Introduction to Modal Logic, Hughes and Cresswell, 1996](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ModelChecking/huges_cresswell_modal_logic.pdf)
 
-## Causality modeling via DAGs and Bayesian Networks
+## Causal inference via Bayesian Networks
 
 * [Causality, Judea Pearl, 2nd edition, 2009](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Causality_Judea_Pearl_2ndEdition.pdf)
 
