@@ -243,6 +243,8 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 * [Identifying Independencies in Causal Graphs with Feedback, J. Pearl and R. Dechter, 1996](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/IdentifyingIndependenciesInCausalGraphswithFeedback_Pearl_and_Dechter_1996.pdf)
 
+* [The Structural Theory of Causation, Judea Pearl, 2009](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/TheStructuralTheoryOfCausationJudeaPearl_2009.pdf)
+
 * [Structural Equations with Latent Variables: Computational Solutions for Modern Data Problems, Erik-Jan van Kesteren, 2021](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/StructuralEquationswithLatentVariables_VanKestern_PhD_thesis_2021.pdf)
 
 * [Foundations of Structural Causal Models with Cycles and Latent Variables, S. Bongers et al, 2021](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/FoundationsofStructuralCausalModelswithCyclesandLatentVariables_2021_Bongers.pdf)
