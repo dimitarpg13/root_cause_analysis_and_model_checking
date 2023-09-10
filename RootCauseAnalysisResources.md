@@ -236,6 +236,9 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 * [A New Introduction to Modal Logic, Hughes and Cresswell, 1996](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ModelChecking/huges_cresswell_modal_logic.pdf)
 
 ## Causality modeling via DAGs and Bayesian Networks
+
+* [Causality, Judea Pearl, 2nd edition, 2009](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Causality_Judea_Pearl_2ndEdition.pdf)
+
 * [Probabilistic Reasoning in Intelligent Systems, Judea Pearl, 1988](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/JudeaPearl-ProbabilisticReasoninginIntelligentSystems_1988.pdf)
 
 * [Identifying Independence in Bayesian Networks, Geiger, Verma, Pearl, 1990](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Identifying_Independence_in_Bayesian_Networks_Geiger_Verma_Pearl_1990.pdf)
@@ -245,6 +248,8 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 * [Dynamic Bayesian Networks: Representation, Inference, Learning, Kevin Murphy, PhD thesis, 2002](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/DynamicBayesianNetworks-RepresentationInferenceandLearning_Murphy_Berkeley_2002_PhD_thesis.pdf)
 
 ## Structural Equations Modeling of Causality
+
+* [Causality, Judea Pearl, 2nd edition, 2009](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Causality_Judea_Pearl_2ndEdition.pdf)
 
 * [Structural Equations Models, Bielby and Hauser, 1977](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Structural_Equations_Models_Bielby_and_Hauser_1977.pdf)
 
