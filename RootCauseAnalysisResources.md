@@ -296,9 +296,9 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 ## Branden Fitelson Work on Causal Strength
 
-* [Probabilistic Measures of Causal Strength, Chapter 29, Causality in The Sciences, 2011 (original reprint)](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Probabilistic_measures_of_causal_strength_Fitelson_Hitchcock_2011.pdf)
+* [Probabilistic Measures of Causal Strength, Chapter 29, Causality in The Sciences, 2011 (original print)](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Probabilistic_measures_of_causal_strength_Fitelson_Hitchcock_2011.pdf)
 
-* [Probabilistic Measures of Causal Strength, reprint](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ProbablisticMeasuresOfCausalStrengthFitelson2011.pdf)
+* [Probabilistic Measures of Causal Strength, (standalone reprint)](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ProbablisticMeasuresOfCausalStrengthFitelson2011.pdf)
 
 * [Probabilistic Measures of Causal Strength, companion notebook](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/probabilistic_measures_of_causal_strength_companion_notebook_Fitelson_2011.pdf)
 
