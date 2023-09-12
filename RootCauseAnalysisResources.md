@@ -166,9 +166,8 @@
 * [Probabilistic Measures of Causal Strength, companion notebook](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/probabilistic_measures_of_causal_strength_companion_notebook_Fitelson_2011.pdf)
 
 
-## Causation and Prediction Challenge (collection of articles)
-Collection of papers and discussion on variety of modeling techniques, focusing on predicting the effect of "interventions" performed by an external agent
-JMLR Workshop and Conference Proceedings 3:1-33 WCCI 2008 workshop on causality: [collection of articles](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/CiML-v2-book.pdf)
+## JMLR Workshop and Conference Proceedings 3:1-33 WCCI 2008 workshop on causality
+Collection of papers and discussion on variety of modeling techniques, focusing on predicting the effect of "interventions" performed by an external agent: [compendium book](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/CiML-v2-book.pdf)
 
 
 ## Medium
