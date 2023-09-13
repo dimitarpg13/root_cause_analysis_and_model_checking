@@ -166,8 +166,13 @@
 * [Probabilistic Measures of Causal Strength, companion notebook](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/probabilistic_measures_of_causal_strength_companion_notebook_Fitelson_2011.pdf)
 
 
-## JMLR Workshop and Conference Proceedings 3:1-33 WCCI 2008 workshop on causality
-Collection of papers and discussion on variety of modeling techniques, focusing on predicting the effect of "interventions" performed by an external agent: [compendium book](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/CiML-v2-book.pdf)
+## WCCI Causality Challenge 2008
+First Causality Challenge organized by the Causality Workbench Team for the World Congress in Artificial Intelligence (WCCI), June 3, 2008, Honk Kong
+Collection of papers and discussion on variety of modeling techniques, focusing on predicting the effect of "interventions" performed by an external agent:
+
+[compendium book](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/CiML-v2-book.pdf)
+
+[web site](https://www.causality.inf.ethz.ch/challenge.php)
 
 
 ## Medium
