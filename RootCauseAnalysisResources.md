@@ -169,14 +169,14 @@
 ## WCCI Causality Challenge 2008
 First Causality Challenge organized by the Causality Workbench Team for the World Congress in Artificial Intelligence (WCCI), June 3, 2008, Hong Kong.
 
-Collection of papers and discussion on variety of modeling techniques, focusing on predicting the effect of "interventions" performed by an external agent:
+Collection of papers and discussion on variety of modeling techniques, focusing on predicting the effect of "interventions" performed by an external agent. All datasets which are used to train and test the models in this collection of papers are part of the challenge.
 
 [compendium book](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/CiML-v2-book.pdf)
 
-Web site for sharing problems and test methods:
+Link for sharing problems and test methods:
 https://www.causality.inf.ethz.ch/cause-effect.php
 
-Web site for downloading the datasets in the challenge
+Link for downloading the datasets in the challenge:
 https://www.causality.inf.ethz.ch/challenge.php
 
 
