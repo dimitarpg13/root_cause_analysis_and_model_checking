@@ -317,6 +317,16 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 * [Causal analysis with PyMC: Answering "What If?" with the new do operator with PyMC Labs](https://medium.com/@social_68653/causal-analysis-with-pymc-answering-what-if-with-the-new-do-operator-61c2f36858bb)
 
+* [BICauseTree: Bias-balancing Interpretable Causal Tree with Lucile Ter-Minassian](https://medium.com/@lucile.terminassian/bicausetree-bias-balancing-interpretable-causal-tree-c94e454a0e70)
+
+    related papers:
+
+    [Causal Inference Using Potential Outcomes - Design, Modeling, Decisions, Rubin, 2005, JASA](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/CausalInferenceUsingPotentialOutcomes-DesignModelingDeciisions_Rubin_Jasa2005.pdf)
+
+    [Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead, Rudin, 2019](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Stop_Explaining_Black_Box_Machine_Learning_Models_for_High_Stakes_Decisions_and_Use_Interpretable_Models_Instead_Rudin_DukeU_2019.pdf)
+
+    [RealCause: Realistic Causal Inference Benchmarking, Neal et al, 2021](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/RealCause-Realistic_Causal_Inference_Benchmarking_Neal_Huang_2021.pdf)
+
 
 ## Videos
 
