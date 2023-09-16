@@ -165,6 +165,12 @@
 
 * [Probabilistic Measures of Causal Strength, companion notebook](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/probabilistic_measures_of_causal_strength_companion_notebook_Fitelson_2011.pdf)
 
+## Manipulability Theories and Causation
+
+* [Making Things Happen: A Theory of Causal Explanation, James Woodward, 2003](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Making-Things-Happen-A-Theory-of-Causal-Explanation-Woodward-2003.pdf)
+
+* [Causation and Manipulability, James Woodward, 2003](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Causation_and_Manipulability_Woodward_2003.pdf)
+
 
 ## WCCI Causality Challenge 2008
 First Causality Challenge organized by the Causality Workbench Team for the World Congress in Artificial Intelligence (WCCI), June 3, 2008, Hong Kong.
