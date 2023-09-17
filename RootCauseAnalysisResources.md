@@ -171,6 +171,20 @@
 
 * [Causation and Manipulability, James Woodward, 2003](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Causation_and_Manipulability_Woodward_2003.pdf)
 
+## Early attempts to define Causality with Graph-based stochastic models
+
+* [The Method of Path Coefficients, Sewall Wright, 1934](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/TheMethodOfPathCoefficients_Wright_AMS_1934.pdf)
+
+* [Causal Inference from Cross-Lagged Correlation Coefficients: Fact or Fancy?, Peer Soelberg, MIT, 1967](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/CausalInferenceFromCrossLaggedCorrelationCoeficientsFactOrFancy_PeerSoelberg_MIT_1967.pdf)
+
+* [Identification and Estimation in Path Analysis with Unmeasured Variables, C.E. Werts et al, Princeton, 1971](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Identification_and_Estimation_in_Path_Analysis_with_Unmeasured_Variables_Werts_1971.pdf)
+
+* [Recursive Causal Models, Harri Kiiveri, T.P. Speed, J.B. Carlin, 1981](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/recursive-causal-models-kiiveri-1981.pdf)
+
+* [Gaussian Markov Distributions over Finite Graphs, T.P. Speed, H. Kiiveri, 1986](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Gaussian_Markov_Distributions_over_Finite_Graphs_Speed_Kiiveri_1986.pdf)
+
+
+
 
 ## WCCI Causality Challenge 2008
 First Causality Challenge organized by the Causality Workbench Team for the World Congress in Artificial Intelligence (WCCI), June 3, 2008, Hong Kong.
