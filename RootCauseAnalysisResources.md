@@ -133,7 +133,19 @@
 
 ## Judea Pearl's Causality Work
 
+* [Probabilistic Reasoning in Intelligent Systems, J. Pearl, 1988](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/JudeaPearl-ProbabilisticReasoninginIntelligentSystems_1988.pdf)
+
+* [Causality: Models, Reasoning, and Inference, J. Pearl, 2006](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Causality_Models_Reasoning_and_Inference_Perl_2nd_edition_2006.pdf)
+
+* [Causality, J. Pearl, 2009](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Causality_Judea_Pearl_2ndEdition.pdf)
+
+* [Causal Inference in Statistics - A Primer, J. Pearl, 2009](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Causal_Inference_in_Statistics_A_Primer_Pearl_2009.pdf)
+
 * [Do-Calculus Revisited, Judea Pearl, Keynote Lecture, UAI-2012 Conference, Catalina, CA](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/TheDoCalculusRevistedJPearl2012.pdf)
+
+* [The Book of Why: The Science of Cause and Effect, J. Pearl, 2018](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/The_book_of_why_the_new_science_of_cause_and_effect_Pearl_2018.pdf)
+
+* [more articles by Judea Pearl ...](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/tree/main/literature/CausalInferencePearl)
 
 ## Wesley C. Salmon's Causality Work
 
