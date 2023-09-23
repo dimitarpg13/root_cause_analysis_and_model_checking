@@ -195,7 +195,8 @@
 
 * [Gaussian Markov Distributions over Finite Graphs, T.P. Speed, H. Kiiveri, 1986](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Gaussian_Markov_Distributions_over_Finite_Graphs_Speed_Kiiveri_1986.pdf)
 
-
+## Richard Neapolitan: Bayesian Networks and related algorithms
+* [Learning Bayesian Networks, R. Neapolitan, 2004](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/BayesianNetworks/LearningBayesianNetworksRNeapolitan.pdf)
 
 
 ## WCCI Causality Challenge 2008
