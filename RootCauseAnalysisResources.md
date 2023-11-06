@@ -214,6 +214,8 @@ https://www.causality.inf.ethz.ch/challenge.php
 
 
 ## Medium
+* [Causality ML for Decision Making with Ryuta Yoshimatsu](https://medium.com/@ryutayoshimatsu/causal-machine-learning-a3dc79205674) 
+
 * [The Dual Roots of Belief Propagation and Causal Inference with Oliver Beige](https://oliverbeige.medium.com/the-dual-roots-of-belief-propagation-and-causal-inference-17595d8180d6)
 
     related papers: 
