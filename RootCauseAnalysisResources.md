@@ -130,6 +130,7 @@
 
 * [Fifty Years of Structural Equation Modeling: A History of Generalization, Unification, and Difffusion, 2022](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/Fifty_years_of_Structural_Equation_Modelling_Bollen_2022.pdf)
 
+* [Elements of Causal Inference, J. Peters, D. Janzing, B. Schloekopf, 2017](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Elements_of_Causal_Inference_Peters_2017.pdf)
 
 ## Judea Pearl's Causality Work
 
