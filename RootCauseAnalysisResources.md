@@ -371,10 +371,12 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 * [Lecture 2](https://youtu.be/5cjmlcmhisw)
 
-* [Lecture 3](https://youtu.be/zvrcyqcN9Wo)
+### Lectures on Causality: Jonas Peters, Broad Institute, MIT, 2017
 
-* [Lecture 4](https://youtu.be/bHOGP5o3Vu0)
+* [Lecture 1](https://youtu.be/zvrcyqcN9Wo)
 
-* [Lecture 5](https://youtu.be/Jp4UcgpVA2I)
+* [Lecture 2](https://youtu.be/bHOGP5o3Vu0)
 
-* [Lecture 6](https://youtu.be/ytnr_2dyyMU)
+* [Lecture 3](https://youtu.be/Jp4UcgpVA2I)
+
+* [Lecture 4](https://youtu.be/ytnr_2dyyMU)
