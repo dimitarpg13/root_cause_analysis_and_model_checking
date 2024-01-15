@@ -1,4 +1,4 @@
-# Root Cause Analysis (RCA) and Model Checking via Probabilistic Temporal Logic (PTL)
+# Causal Inference, Root Cause Analysis (RCA) and Model Checking via Probabilistic Temporal Logic (PTL)
 
 Literature overview on the topic of Process Mining in general and Root Cause Analysis specifically:
 Process Mining / RCA literature compendum:
