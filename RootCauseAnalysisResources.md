@@ -1,4 +1,4 @@
-# Root Cause Analysis Resources
+# Causal Inference and Root Cause Analysis Resources
 
 ## Books, Articles and Tutorials
 
