@@ -1,4 +1,4 @@
-# Root Cause Analysis (RCA) and Model Checking via Probabilistic Temporal Logic (PTL)
+# Causal Inference, Root Cause Analysis (RCA) and Model Checking via Probabilistic Temporal Logic (PTL)
 
 Literature overview on the topic of Process Mining in general and Root Cause Analysis specifically:
 Process Mining / RCA literature compendum:
@@ -27,6 +27,8 @@ A refresher on first order logic which is the fundament of the logic systems for
 ## Relevant Work
  
  * [Reinforcement Learning](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
+
+ * [Offline Reinforcement and Self-Supervised Learning](https://github.com/dimitarpg13/self_supervised_learning/blob/main/SelfSupervisedLearningResources.md)
 
  * [NLP Concepts](https://github.com/dimitarpg13/nlp_concepts/blob/main/NLPResources.md)
  
