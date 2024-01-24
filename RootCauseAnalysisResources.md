@@ -384,4 +384,4 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 ### Root Cause analysis with DoWhy
 
-* [PyCon presentation on Root Cause Analysis with DoWhy](https://youtu.be/icpHrbDlGaw)
+* [PyConDE & PyData Berlin 2023 presentation on Root Cause Analysis with DoWhy](https://youtu.be/icpHrbDlGaw)
