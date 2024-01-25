@@ -386,6 +386,12 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 * [Lecture 4](https://youtu.be/ytnr_2dyyMU)
 
+### MIT 6.S897 Machine Learning for Healthcare, Spring 2019
+
+* [Causal Inference, Part 1](https://youtu.be/gRkUhg9Wb-I)
+
+* [Causal Inference, Part 2](https://youtu.be/g5v-NvNoJQQ)
+
 ### Root Cause analysis with DoWhy
 
 * [PyConDE & PyData Berlin 2023 presentation on Root Cause Analysis with DoWhy](https://youtu.be/icpHrbDlGaw)
