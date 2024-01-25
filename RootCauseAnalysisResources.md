@@ -366,6 +366,8 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 ## Videos
 
+* [Microssoft Research 2013 Keynote: The Mathematics of Causal Inference: with Reflections on Machine Learning](https://youtu.be/bcRl7sXR1hE)
+
 ### MLSS Cadiz 2016, Jonas Peters
 
 * [Lecture 1](https://youtu.be/_wFagI5Fn9I)
