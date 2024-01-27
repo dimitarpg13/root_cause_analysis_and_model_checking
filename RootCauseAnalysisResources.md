@@ -203,6 +203,9 @@
 ## Richard Neapolitan: Bayesian Networks and related algorithms
 * [Learning Bayesian Networks, R. Neapolitan, 2004](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/BayesianNetworks/LearningBayesianNetworksRNeapolitan.pdf)
 
+## CMU publications on Causality and ICA
+
+https://www.cmu.edu/dietrich/causality/publications/
 
 ## WCCI Causality Challenge 2008
 First Causality Challenge organized by the Causality Workbench Team for the World Congress in Artificial Intelligence (WCCI), June 3, 2008, Hong Kong.
@@ -401,3 +404,15 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 ### Root Cause analysis with DoWhy
 
 * [PyConDE & PyData Berlin 2023 presentation on Root Cause Analysis with DoWhy](https://youtu.be/icpHrbDlGaw)
+
+## Causal Frameworks
+
+* causal-learn
+
+  docs: https://causal-learn.readthedocs.io/en/latest/
+
+  repo: https://github.com/py-why/causal-learn
+
+  paper:
+
+  CMU url: https://www.cmu.edu/dietrich/causality/causal-learn/
