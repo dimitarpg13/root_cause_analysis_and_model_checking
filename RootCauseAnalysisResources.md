@@ -413,6 +413,6 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
   repo: https://github.com/py-why/causal-learn
 
-  paper:
+  paper: [Causal-learn: Causal Discovery in Python, Y. Zheng et al, CMU, 2023](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/CausalDiscovery/Causal-learn-Causal_Discovery_in_Python_Zheng_CMU_2023.pdf)
 
   CMU url: https://www.cmu.edu/dietrich/causality/causal-learn/
