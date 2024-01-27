@@ -110,6 +110,10 @@
 
 * [Dynamic Bayesian Networks: Representation, Inference, Learning, Kevin Murphy, PhD thesis, 2002](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/DynamicBayesianNetworks-RepresentationInferenceandLearning_Murphy_Berkeley_2002_PhD_thesis.pdf)
 
+## Causal Forecasting
+
+* [Causal Forecasting for Pricing, D. Schultz et al, Zalando SE, 2024](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/CausalForecasting/Causal_Forecasting_for_Pricing_Schultz_2024.pdf)
+
 ## Structural Equations Modeling of Causality
 
 * [Causality, Judea Pearl, 2nd edition, 2009](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Causality_Judea_Pearl_2ndEdition.pdf)
