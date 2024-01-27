@@ -366,7 +366,9 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 ## Videos
 
-* [Microssoft Research 2013 Keynote: The Mathematics of Causal Inference with Reflections on Machine Learning](https://youtu.be/bcRl7sXR1hE)
+### Microsoft Research 2013
+
+* [Keynote: The Mathematics of Causal Inference with Reflections on Machine Learning](https://youtu.be/bcRl7sXR1hE)
 
 ### MLSS Cadiz 2016, Jonas Peters
 
@@ -383,6 +385,12 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 * [Lecture 3](https://youtu.be/Jp4UcgpVA2I)
 
 * [Lecture 4](https://youtu.be/ytnr_2dyyMU)
+
+### MIT 6.S897 Machine Learning for Healthcare, Spring 2019
+
+* [Causal Inference, Part 1](https://youtu.be/gRkUhg9Wb-I)
+
+* [Causal Inference, Part 2](https://youtu.be/g5v-NvNoJQQ)
 
 ### Root Cause analysis with DoWhy
 
