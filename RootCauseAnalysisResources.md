@@ -274,6 +274,8 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 * [Double Machine Learning for Causal Inference from a Partially Linear Model, Zachary Clement](https://medium.com/@clementzach_38631/double-machine-learning-for-causal-inference-from-a-partially-linear-model-ada4c39914e3)
 
+* [Double Machine Learning for causal inference, Borja Velasco, June 2021](https://towardsdatascience.com/double-machine-learning-for-causal-inference-78e0c6111f9d)
+
 * [Causal Inference with high-dimensional data: An evaluation of the Double Machine Learning Algorithm, Zachary Clement](https://medium.com/@clementzach_38631/causal-inference-with-high-dimensional-data-an-evaluation-of-the-double-machine-learning-algorithm-a883d2135bd5)
 
 * [Explore and understand your data with a network of significant associations, Erdogan Taskesen](https://towardsdatascience.com/explore-and-understand-your-data-with-a-network-of-significant-associations-9a03cf79d254)
