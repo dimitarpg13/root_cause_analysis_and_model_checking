@@ -401,6 +401,36 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 * [Causal Inference, Part 2](https://youtu.be/g5v-NvNoJQQ)
 
+### Brief Introduction to Causal Inference with Brady Neal, 2020
+
+* [Lecture 1 Brief Introduction to Causal Inference: Preview](https://youtu.be/DXBPtpBhGqo)
+
+* [Lecture 2 Potential Outcomes](https://youtu.be/5x_pPemAVxs)
+
+* [Lecture 3 The Flow of Causation and Association in Graphs](https://youtu.be/BX6hdDH3lqQ)
+
+* [Lecture 4 Causal Models](https://youtu.be/AuZu0L0PEgk)
+
+* [Lecture 5 Randomized Experiments and Identification](https://youtu.be/9X4pR4jvKmM)
+
+* [Lecture 6 Estimation](https://youtu.be/_Wr4cWr_ZjU)
+
+* [Lecture 7 Unobserved Confounding, Bounds, and Sensitivity Analysis](https://youtu.be/K6kwNUsYK7Y)
+
+* [Lecture 8 Instrumental Variables](https://youtu.be/B0SRWteGoOw)
+
+* [Lecture 9 Difference-in-Differences](https://youtu.be/2nDgrNP7XSE)
+
+* [Alberto Abadie Guest Talk - Synthetic Controls](https://youtu.be/nKzNp-qpE-I)
+
+* [Lecture 10 Causal Discovery from Observational Data](https://youtu.be/1_b7jgupoAE)
+
+* [Lecture 11 Causal Discovery from Interventions](https://youtu.be/MHCi8IR81ok)
+
+* [Lecture 12 Transfer Learning and Transportability](https://youtu.be/k9Vq5jQF1IY)
+
+* [Lecture 13 Counterfactuals and Mediation](https://youtu.be/eLPjFDeyUL4)
+
 ### Root Cause analysis with DoWhy
 
 * [PyConDE & PyData Berlin 2023 presentation on Root Cause Analysis with DoWhy](https://youtu.be/icpHrbDlGaw)
