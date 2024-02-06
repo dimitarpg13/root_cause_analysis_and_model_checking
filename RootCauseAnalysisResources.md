@@ -431,6 +431,10 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 * [Lecture 13 Counterfactuals and Mediation](https://youtu.be/eLPjFDeyUL4)
 
+### Yoshua Bengio, Causal Representation Learning, 2020
+
+* [Yoshua Bengio Guest Talk - Towards Causal Representation Learning](https://youtu.be/rKZJ0TJWvTk)
+
 ### Root Cause analysis with DoWhy
 
 * [PyConDE & PyData Berlin 2023 presentation on Root Cause Analysis with DoWhy](https://youtu.be/icpHrbDlGaw)
