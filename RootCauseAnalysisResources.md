@@ -435,6 +435,10 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
 * [Yoshua Bengio Guest Talk - Towards Causal Representation Learning](https://youtu.be/rKZJ0TJWvTk)
 
+### Causal Representation Learning
+
+* [Causal Representation Learning Presentation, Chaochao Lu, Unviersity of Cambridge](https://youtu.be/hKs-PHZnIbQ)
+
 ### Root Cause analysis with DoWhy
 
 * [PyConDE & PyData Berlin 2023 presentation on Root Cause Analysis with DoWhy](https://youtu.be/icpHrbDlGaw)
