@@ -55,3 +55,7 @@ A refresher on first order logic which is the fundament of the logic systems for
  * [Spectral Analysis, Optimization in Spectral Domain, Spectral Domain Modeling](https://github.com/dimitarpg13/spectral_analysis/blob/main/Resources.md)
 
  * [Thought Forming, Consciousness, Intelligent Machines, Inference, Logic Systems](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md)
+
+## Note
+
+This repository uses git Large File Storage feature. In order to download locally the large files (> 7MB) which are maintained by git LFS you will need to install the Git extension for versioning large files: https://git-lfs.com/
