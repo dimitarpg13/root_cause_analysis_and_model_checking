@@ -384,6 +384,11 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 
     [RealCause: Realistic Causal Inference Benchmarking, Neal et al, 2021](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/RealCause-Realistic_Causal_Inference_Benchmarking_Neal_Huang_2021.pdf)
 
+* [Automated Causal Detection with Todd Moses, 2024](https://toddmoses.medium.com/automated-causal-detection-91fc99f2b487)
+
+  related papers:
+
+  [Illusions of causality: how they bias our everyday thinking and how they could be reduced, H. Matute et al, 2015](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/CausalDiscovery/Illusions_of_causality-how_they_bias_our_everyday_thinking_and_how_they_could_be_reduced_Matute_2015.pdf)
 
 ## Videos
 
