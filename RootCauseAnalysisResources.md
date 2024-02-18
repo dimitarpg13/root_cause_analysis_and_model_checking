@@ -110,6 +110,18 @@
 
 * [Dynamic Bayesian Networks: Representation, Inference, Learning, Kevin Murphy, PhD thesis, 2002](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/DynamicBayesianNetworks-RepresentationInferenceandLearning_Murphy_Berkeley_2002_PhD_thesis.pdf)
 
+## Causal Representation Learning
+
+* [Towards Causal Representation Learning, Bernhard Schölkopf et al, 2021](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/CausalRepresentationLearning/Towards_Causal_Representation_Learning_Scholkopf_2021.pdf)
+
+* [Causal inference using invariant prediction: identification and confidence intervals, Jonas Peters et al, 2015](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/CausalRepresentationLearning/Causal_inference_using_invariant_prediction-identification_and_confidence_intervals_Jonas_Peters_2015.pdf)
+
+* [Invariant Risk Minimization, Martin Arjovsky, L´eon Bottou et al, 2020](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/CausalRepresentationLearning/Invariant_Risk_Minimization_Arjovsky_2020.pdf)
+
+* [Nonlinear Invariant Risk Minimization: A Causal Approach, Chaochao Lu et al, 2022](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/CausalRepresentationLearning/Nonlinear_Invariant_Risk_Minimization-A_Causal_Approach_Lu_2020.pdf)
+
+* [Causal Representation Learning Presentation, Chaochao Lu, Unviersity of Cambridge, 2021, youtube presentation](https://youtu.be/hKs-PHZnIbQ)
+
 ## Causal Forecasting
 
 * [Causal Forecasting for Pricing, D. Schultz et al, Zalando SE, 2024](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/CausalForecasting/Causal_Forecasting_for_Pricing_Schultz_2024.pdf)
