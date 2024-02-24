@@ -84,6 +84,8 @@
 
 * [Single World Intervention Graphs (SWIFs): A Unification of the Counterfactual and Graphical Approaches to Causality, T. Richardson, J. Robins, 2013](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/SingleWorldInterventionGraphs-UnificationoftheCounterfactualandGraphicalApproachestoCausality_Richardson_TR_2013.pdf)
 
+* [Applied Causal Inference Powered by ML and AI, V. Chernozhukov et al, 2024](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Applied_Causal_Inference_Chernozhukov_2024.pdf)
+
 ## Model Checking and Verification
 
 * [Automatic Verification Of Finite State Concurrent Systems Using Temporal Logic Specifications: A Practical Approach, Clarke, Emerson, Sistla, 1984](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ModelChecking/AutomaticVerifictionOfFiniteStateConcurrentSystemUsingTemporalLogicSpecification.pdf)
