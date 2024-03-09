@@ -52,6 +52,8 @@ A refresher on first order logic which is the fundament of the logic systems for
 
  * [Dynamical Systems, Chaos, Ergodicity](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/Resources.md)
 
+ * [Information Theory and Statistical Mechanics](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/Resources.md)
+
  * [Spectral Analysis, Optimization in Spectral Domain, Spectral Domain Modeling](https://github.com/dimitarpg13/spectral_analysis/blob/main/Resources.md)
 
  * [Computability, Automata, Logic Systems, Formal Grammars and Theory of Parsing](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/Resources.md)
