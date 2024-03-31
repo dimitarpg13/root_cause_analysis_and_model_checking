@@ -112,6 +112,8 @@
 
 * [Dynamic Bayesian Networks: Representation, Inference, Learning, Kevin Murphy, PhD thesis, 2002](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/DynamicBayesianNetworks-RepresentationInferenceandLearning_Murphy_Berkeley_2002_PhD_thesis.pdf)
 
+*  [Understanding V-Structures and the Critical Role They Play in Causal Validation and Causal Inference, Graham Harrison, March 2024](https://towardsdatascience.com/understanding-v-structures-and-the-role-they-play-in-causal-validation-and-causal-infrence-7e7910200f9f)
+
 ## Causal Representation Learning
 
 * [Towards Causal Representation Learning, Bernhard Schölkopf et al, 2021](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/CausalRepresentationLearning/Towards_Causal_Representation_Learning_Scholkopf_2021.pdf)
