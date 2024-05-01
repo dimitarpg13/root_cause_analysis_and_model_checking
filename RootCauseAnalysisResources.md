@@ -463,3 +463,7 @@ Effects, Susan Athey, G.W. Imbens, 2015](https://github.com/dimitarpg13/root_cau
 ### Root Cause analysis with DoWhy
 
 * [PyConDE & PyData Berlin 2023 presentation on Root Cause Analysis with DoWhy](https://youtu.be/icpHrbDlGaw)
+
+### Causal Discovery
+
+* [The Causal Discovery Ladder: Unravelling Governing Equations and Beyond, Mihaela van der Schaar, April 2024, Online Causal Inference Seminar](https://youtu.be/P-GxxhhcLUo)
