@@ -40,11 +40,13 @@ A refresher on first order logic which is the fundament of the logic systems for
  
  * [Probabilistic Machine Learning and Bayesian Methods](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/ProbabilisticMachineLearningResources.md)
 
- * [Statistical Learning, Kernel Methods, Kolomogorov-Arnold Networks](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/Resources.md)
+ * [Statistical Learning, Kernel Methods, Kolmogorov-Arnold Networks](https://github.com/dimitarpg13/statistical_learning_and_kernel_methods/blob/main/Resources.md)
 
  * [Optimization, Classification, Regression](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/Resources.md)
  
  * [Causal Inference, Root Cause Analysis and Model Checking](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/RootCauseAnalysisResources.md)
+
+ * [Image Processing and Computer Vision: Techniques and Algorithms](https://github.com/dimitarpg13/image_processing/blob/main/Resources.md)
 
  * [Deep Learning and Neural Networks](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/Resources.md)
 
