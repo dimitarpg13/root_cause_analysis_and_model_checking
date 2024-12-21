@@ -126,6 +126,18 @@
 
 * [Causal Representation Learning Presentation, Chaochao Lu, Unviersity of Cambridge, 2021, youtube presentation](https://youtu.be/hKs-PHZnIbQ)
 
+## Causality in Time Series, Granger Causality
+
+* [A New Way to Detect Causality in Time-Series: Interview with Alejandro Rodriguez Dominguez, Microprediction, 2024, Medium](https://microprediction.medium.com/a-new-way-to-detect-causality-in-time-series-interview-with-alejandro-rodriguez-dominguez-9257e8783d7f)
+
+related paper: [Causal Interactions Indicator Between Two Time Series Using Extreme Variations in First Eigenvalue of Lagged Correlation Matrices, Alejandro Rodriguez Dominguez, 2024](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/DynamicalSystems/Causal_Interactions_Indicator_Between_Two_Time_Series_Using_Extreme_Variations_in_First_Eigenvalue_of_Lagged_Correlation_Matrices_Dominguez_2024.pdf)
+
+related paper: [Geometric Spatial and Temporal Constraints in Dynamical Systems and Their Relation to Causal Interactions between Time Series, Alejandro Rodriguez Dominguez, 2024](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/DynamicalSystems/Geometric_Spatial_and_Temporal_Constraints_in_Dynamical_Systems_and_Their_Relation_to_Causal_Interactions_between_Time_Series_Dominguez_2024.pdf)
+
+related paper: [Will A Large Complex System Be Stable? Robert M. May, 1972](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/DynamicalSystems/Will-A-Large-System-be-stable-1972-may.pdf)
+
+related repo: https://github.com/rrtucci/mappa_mundi
+
 ## Causal Forecasting
 
 * [Causal Forecasting for Pricing, D. Schultz et al, Zalando SE, 2024](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/CausalForecasting/Causal_Forecasting_for_Pricing_Schultz_2024.pdf)
@@ -222,6 +234,13 @@
 ## CMU publications on Causality and ICA
 
 https://www.cmu.edu/dietrich/causality/publications/
+
+## ADIA Lab and Crunch Lab Launch Causal Discovery Challenge
+
+* [ADIA Lab and Crunch Lab Launch Causal Discovery Challenge](https://hub.crunchdao.com/competitions/causality-discovery)
+
+* [Solution to the challenge](https://thetourney.github.io/adia-report/)
+
 
 ## WCCI Causality Challenge 2008
 First Causality Challenge organized by the Causality Workbench Team for the World Congress in Artificial Intelligence (WCCI), June 3, 2008, Hong Kong.
