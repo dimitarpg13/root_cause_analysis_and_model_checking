@@ -24,4 +24,4 @@ literature/books/the-direction-of-time-hans-reichenbach-ucal-press-1971.pdf filt
 literature/ModelChecking/Handbook_of_Model_Checking__Edmund_Clarke_Thomas_Henzinger_Helmut_Veith_Roderick_Bloem.pdf filter=lfs diff=lfs merge=lfs -text
 literature/ModelChecking/huges_cresswell_modal_logic.pdf filter=lfs diff=lfs merge=lfs -text
 literature/ModelChecking/ElementaryInductionOfAbstractStructuresMoschovakis1974.pdf filter=lfs diff=lfs merge=lfs -text
-
+literature/DynamicalSystems/Causal_Interactions_Indicator_Between_Two_Time_Series_Using_Extreme_Variations_in_First_Eigenvalue_of_Lagged_Correlation_Matrices_Dominguez_2024.pdf filter=lfs diff=lfs merge=lfs -text
