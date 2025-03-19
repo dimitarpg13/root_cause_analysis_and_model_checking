@@ -164,6 +164,8 @@
 
 * [Elements of Causal Inference, J. Peters, D. Janzing, B. Schloekopf, 2017](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Elements_of_Causal_Inference_Peters_2017.pdf)
 
+* [The Relativity of Causal Knowledge, Gabriele D’Acunto, Claudio Battiloro, 2025](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/The_Relativity_of_Causal_Knowledge_DAccunto_2025.pdf)
+
 ## Judea Pearl's Causality Work
 
 * [Probabilistic Reasoning in Intelligent Systems, J. Pearl, 1988](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/JudeaPearl-ProbabilisticReasoninginIntelligentSystems_1988.pdf)
