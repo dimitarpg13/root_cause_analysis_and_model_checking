@@ -25,3 +25,4 @@ literature/ModelChecking/Handbook_of_Model_Checking__Edmund_Clarke_Thomas_Henzin
 literature/ModelChecking/huges_cresswell_modal_logic.pdf filter=lfs diff=lfs merge=lfs -text
 literature/ModelChecking/ElementaryInductionOfAbstractStructuresMoschovakis1974.pdf filter=lfs diff=lfs merge=lfs -text
 literature/DynamicalSystems/Causal_Interactions_Indicator_Between_Two_Time_Series_Using_Extreme_Variations_in_First_Eigenvalue_of_Lagged_Correlation_Matrices_Dominguez_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/The_Relativity_of_Causal_Knowledge_DAccunto_2025.pdf filter=lfs diff=lfs merge=lfs -text
