@@ -86,6 +86,8 @@
 
 * [Applied Causal Inference Powered by ML and AI, V. Chernozhukov et al, 2024](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/books/Applied_Causal_Inference_Chernozhukov_2024.pdf)
 
+* [Regression Adjustment for Causal Inference: A Primer with Examples, P. Richard Hahn and Andrew Herren, 2025](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/causal_primer_with_examples_Hahn_2025.pdf)
+
 ## Model Checking and Verification
 
 * [Automatic Verification Of Finite State Concurrent Systems Using Temporal Logic Specifications: A Practical Approach, Clarke, Emerson, Sistla, 1984](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/literature/ModelChecking/AutomaticVerifictionOfFiniteStateConcurrentSystemUsingTemporalLogicSpecification.pdf)
